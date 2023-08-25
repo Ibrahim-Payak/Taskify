@@ -1,0 +1,29 @@
+.inputBox {
+  margin: 15px 24px;
+  width: 550px;
+  height: 56px;
+  border-radius: 12px;
+  padding: 0px 14px;
+  border: 1px solid black;
+
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17.07px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+.addButton {
+  width: 109px;
+  height: 56px;
+  border-radius: 12px;
+
+  background: #2f80ed;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17.07px;
+  color: #ffffff;
+  border: none;
+}

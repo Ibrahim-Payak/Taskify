@@ -1,0 +1,40 @@
+.tasksContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.taskItem {
+  display: flex;
+  align-items: center;
+}
+
+.taskCheckbox {
+  height: 24px;
+  width: 24px;
+  border-radius: 4px;
+  margin-left: 25px;
+}
+
+.taskText {
+  width: 199px;
+  height: 22px;
+
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21.94px;
+  color: #000000;
+  margin-left: 5px;
+}
+
+.deleteButton {
+  width: 124px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #eb5757;
+  color: white;
+  border: none;
+  font-size: 17px;
+  align-self: flex-end;
+  margin: 15px 20px;
+}

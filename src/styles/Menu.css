@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid black;
+}
+
+.navItem {
+  text-decoration: none;
+  margin: 0px 34px;
+  color: black;
+  padding: 19px 76px;
+}
